@@ -29,6 +29,7 @@ dependencies {
 
     //Kotlin React Emotion (CSS) (chapter 3)
     implementation("org.jetbrains.kotlin-wrappers:kotlin-emotion")
+    implementation("org.jetbrains.kotlin-wrappers:kotlin-js")
 
     //Video Player (chapter 7)
     implementation(npm("react-player", "2.10.1"))
